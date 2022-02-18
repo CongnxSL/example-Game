@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Map
+  - Enemy 1
+  - Enemy 2
+  - Enemy 3
+  - Enemy 4
+  - Player 1
+  - Player 2
+  - Anim 1
+  - Anim 2
+  - Anim 3
+  - Item 1
+  - Item 2
+  - Item 3
+  - Item 4
+  - Item 5
+  - Item 6
+  - Item 7
+  - Bird
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Team1
+  - Team2
+  - Bullet1
+  - Bullet2
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
